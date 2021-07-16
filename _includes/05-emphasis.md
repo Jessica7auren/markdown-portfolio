@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+It's a **bold move** to *italicize your demands* and **__bolder still__** to <del>cross out others</del>. 
